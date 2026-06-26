@@ -1,7 +1,8 @@
 
 import '../App.css'
+import Canvas from "../components/Canvas"
 
-function Canvas() {
+function DrawingPage() {
 
   return (
     <>
@@ -10,6 +11,8 @@ function Canvas() {
           <h1>Canvas placeholder</h1>
         </div>
 
+        <Canvas></Canvas>
+
         <a href="/">Go Back</a>
       </section>
 
@@ -17,4 +20,4 @@ function Canvas() {
   )
 }
 
-export default Canvas
+export default DrawingPage

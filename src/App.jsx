@@ -10,7 +10,7 @@ function App() {
         </div>
 
         <a href="/canvas">Add to the garden</a>
-         <a href="/garden">View the garden</a>
+        <a href="/garden">View the garden</a>
         
       </section>
 
